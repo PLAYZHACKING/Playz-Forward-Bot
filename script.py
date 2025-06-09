@@ -4,8 +4,9 @@ from config import Config
 class  Script(object):
   START_TXT = """<b>ʜɪ {}
   
-ɪ'ᴍ ᴀ ᴀᴅᴠᴀɴᴄᴇᴅ ꜰᴏʀᴡᴀʀᴅ ʙᴏᴛ
-ɪ ᴄᴀɴ ꜰᴏʀᴡᴀʀᴅ ᴀʟʟ ᴍᴇssᴀɢᴇ ꜰʀᴏᴍ ᴏɴᴇ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴀɴᴏᴛʜᴇʀ ᴄʜᴀɴɴᴇʟ</b>
+ɪ'ᴍ 
+I'M [ᴘʟᴀʏ-ᴢ ᴀᴅᴠᴀɴᴄᴇ ᴍᴇsꜱᴀɢᴇ ꜰᴏʀᴡᴀʀᴅ ʙᴏᴛ🤖](http://t.me/PLAYZ_SMS_FORWARD_BOT)
+ɪ ᴄᴀɴ ꜰᴏʀᴡᴀʀᴅ ᴀʟʟ ᴍᴇssᴀɢᴇ ꜰʀᴏᴍ ᴏɴᴇ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴀɴᴏᴛʜᴇʀ ᴄʜᴀɴɴᴇʟ.                           😎Created by - [PLAY-Z HACKING](https://t.me/+CK4EXZbq7DRkZmE1)</b>
 
 **ᴄʟɪᴄᴋ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ**"""
   HELP_TXT = """<b><u>🔆 Help</b></u>
@@ -38,10 +39,11 @@ class  Script(object):
   ABOUT_TXT = """<b>
 ╔════❰ ғᴏʀᴡᴀʀᴅ ʙᴏᴛ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣
-║┣⪼📃ʙᴏᴛ : [Fᴏʀᴡᴀᴅ Bᴏᴛ](https://t.me/VJForwardBot)
-║┣⪼👦Cʀᴇᴀᴛᴏʀ : [Kɪɴɢ VJ 👑](https://t.me/kingvj01)
-║┣⪼🤖Uᴘᴅᴀᴛᴇ : [VJ Bᴏᴛᴢ](https://t.me/vj_botz)
-║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : Sᴜᴘᴇʀ Fᴀsᴛ
+║┣⪼📃ʙᴏᴛ : [ᴘʟᴀʏ-ᴢ ᴀᴅᴠᴀɴᴄᴇ ᴍᴇsꜱᴀɢᴇ ꜰᴏʀᴡᴀʀᴅ ʙᴏᴛ](https://t.me/PLAYZ_SMS_FORWARD_BOT)
+║┣⪼👦Cʀᴇᴀᴛᴏʀ : [
+⛥꯭ᴳᴼᴰ⛥꯭❖꯭𓂀⃝😈𝗣ʟᴀʏ-ᴢ𓂀⃝꯭❖⛥꯭](https://t.me/Playz_90)
+║┣⪼🤖Uᴘᴅᴀᴛᴇ : [PLAY-Z HACKING](https://t.me/+CK4EXZbq7DRkZmE1)
+║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : private vps
 ║┣⪼🗣️Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ3
 ║┣⪼📚Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ Gᴀᴛʜᴇʀ 2.11.0 
 ║┣⪼🗒️Vᴇʀsɪᴏɴ : 0.18.3
